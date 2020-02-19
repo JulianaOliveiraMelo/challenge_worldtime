@@ -1,0 +1,24 @@
+{
+  "name": "challenge_worldtime",
+  "version": "1.0.0",
+  "description": "Aujourd'hui nous avons découvert le module Express qui nous permet de gérer plus facilement un serveur web en NodeJS. Mais également d'afficher des vues simples grâce à l'inclusion de fichiers HTML. Ce soir vous allez devoir afficher une liste de capitales et créer les pages permettant de connaître la date et l'heure dans chacune d'elle. À cette fin vous avez :",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianaOliveiraMelo/challenge_worldtime"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianaOliveiraMelo/challenge_worldtime/issues"
+  },
+  "homepage": "https://github.com/JulianaOliveiraMelo/challenge_worldtime#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.27"
+  }
+}
